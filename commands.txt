@@ -1,0 +1,7 @@
+cd - changes directory
+ls - lists stuff in the directory
+git clone - clones a repository from GitLab to
+            my computer
+git status - show me the status of the repository
+git add - adds files to "the stage" for committing
+git commit - commits those changes to the
